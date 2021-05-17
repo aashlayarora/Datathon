@@ -5,7 +5,7 @@
 ![Matrix SVG](https://github.com/aashlayarora/Datathon/blob/main/Assets/matrix.svg)
 
  <img src="https://github.com/aashlayarora/Datathon/blob/main/Assets/cartoon.png" align="right" width="35%"/>
----
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -30,7 +30,7 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
----
+
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
@@ -53,7 +53,7 @@
 - <code><img width="15%" src="https://github.com/gilbarbara/logos/blob/master/logos/tableau.svg"></code>
 
 
-
+---
 <!-- GETTING STARTED -->
 
 ## Getting Started
