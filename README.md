@@ -46,8 +46,8 @@
 
 ### Built With
 
-- [](Python)
-- [](Tableau)
+- [Python]()
+- [Tableau]()
 
 
 <!-- GETTING STARTED -->
