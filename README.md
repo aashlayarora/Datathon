@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-# Datathon
-
-
 
 # Datathon
 ![Matrix SVG](https://github.com/aashlayarora/Datathon/blob/main/Assets/matrix.svg)
 
- <img src="https://github.com/aashlayarora/Datathon/blob/main/Assets/cartoon.png" align="right" width="25%"/>
+ <img src="https://github.com/aashlayarora/Datathon/blob/main/Assets/cartoon.png" align="right" width="35%"/>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
