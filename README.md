@@ -32,8 +32,14 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+   <tbody>
+    <tr>
+      <td align="center">
+       <img width="70%" src="https://github.com/aashlayarora/Datathon/blob/main/Assets/banner.png" alt="cover" />
+      </td>
+    </tr>
+  </tbody>
       
-      <img width="70%" src="https://github.com/aashlayarora/Datathon/blob/main/Assets/banner.png" alt="cover" />
 
 
 
