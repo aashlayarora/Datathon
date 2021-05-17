@@ -46,9 +46,9 @@
 
 ### Built With
 
-- []()
-- []()
-- []()
+- [](Python)
+- [](Tableau)
+
 
 <!-- GETTING STARTED -->
 
