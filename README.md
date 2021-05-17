@@ -28,4 +28,21 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
->>>>>>> 0cf143fd11d14b212755cce78a3b7ec79a74f035
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+[![Datathon banner][product-screenshot]](https://github.com/aashlayarora/Datathon/blob/main/Assets/banner.png)
+
+### Built With
+
+- []()
+- []()
+- []()
+
+<!-- GETTING STARTED -->
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
