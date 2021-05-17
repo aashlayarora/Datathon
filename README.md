@@ -32,8 +32,8 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+ <img src="https://github.com/aashlayarora/Datathon/blob/main/Assets/banner.png" />
 
-[![Datathon banner][product-screenshot]](https://github.com/aashlayarora/Datathon/blob/main/Assets/banner.png)
 
 ### Built With
 
