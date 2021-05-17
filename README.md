@@ -1,3 +1,2 @@
 # Datathon
-[![Matrix SVG]
-(https://raw.githubusercontent.com/aashlayarora/Datathon/main/Assets/matrix.svg)]
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
