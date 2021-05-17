@@ -35,7 +35,7 @@
    <tbody>
     <tr>
       <td align="center">
-       <img width="70%" src="https://github.com/aashlayarora/Datathon/blob/main/Assets/banner.png" alt="cover" />
+       <img width="50%" src="https://github.com/aashlayarora/Datathon/blob/main/Assets/banner.png" alt="cover" />
       </td>
     </tr>
   </tbody>
