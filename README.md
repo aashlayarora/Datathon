@@ -98,6 +98,7 @@ See the [open issues](https://github.com/aashlayarora/Datathon/issues) for a lis
 <!-- CONTRIBUTING -->
 
 ## Contributing
+ <img src="https://github.com/aashlayarora/Datathon/blob/main/Assets/Developer.gif" align="right" width="35%"/>
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
