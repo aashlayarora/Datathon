@@ -1,5 +1,6 @@
 
-# Datathon
+<h1 align="center">Datathon/h1>
+
 ![Matrix SVG](https://github.com/aashlayarora/Datathon/blob/main/Assets/matrix.svg)
 
  <img src="https://github.com/aashlayarora/Datathon/blob/main/Assets/cartoon.png" align="right" width="35%"/>
