@@ -1,10 +1,10 @@
 
 <h1 align="center">Datathon</h1>
-
+---
 ![Matrix SVG](https://github.com/aashlayarora/Datathon/blob/main/Assets/matrix.svg)
-
+---
  <img src="https://github.com/aashlayarora/Datathon/blob/main/Assets/cartoon.png" align="right" width="35%"/>
-
+---
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -29,7 +29,7 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
-
+---
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
@@ -44,7 +44,7 @@
 
 
 
-
+---
 ### Built With
 
 - <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
