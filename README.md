@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
- <img src="https://github.com/aashlayarora/Datathon/blob/main/Assets/banner.png" />
+ <img src="https://github.com/aashlayarora/Datathon/blob/main/Assets/banner.png" align="center" width="35% />
 
 
 ### Built With
