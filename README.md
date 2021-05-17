@@ -32,7 +32,10 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-![Matrix SVG](https://github.com/aashlayarora/Datathon/blob/main/Assets/banner.png)
+      
+      <img width="70%" src="https://github.com/aashlayarora/Datathon/blob/main/Assets/banner.png" alt="cover" />
+
+
 
 
 ### Built With
