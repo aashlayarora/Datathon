@@ -1,11 +1,12 @@
 <<<<<<< HEAD
 # Datathon
 
-[![Matrix SVG](https://https://raw.githubusercontent.com/aashlayarora/Datathon/main/Assets/matrix.svg)]
-=======
+
 
 # Datathon
 ![Matrix SVG](https://github.com/aashlayarora/Datathon/blob/main/Assets/matrix.svg)
+
+ <img src="https://github.com/aashlayarora/Datathon/blob/main/Assets/cartoon.png" align="right" width="25%"/>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
