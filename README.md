@@ -112,5 +112,5 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the SATA License. See `LICENSE` for more information.
+Distributed under the Creative Commons Zero v1.0 Universal License. See `LICENSE` for more information.
 
